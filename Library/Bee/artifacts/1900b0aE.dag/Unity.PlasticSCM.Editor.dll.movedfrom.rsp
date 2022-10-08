@@ -2,7 +2,11 @@ Library\Bee\artifacts\movedfrom\UnityEditor.TestRunner.ref.dll_18191076894890228
 Library\Bee\artifacts\movedfrom\UnityEditor.UI.ref.dll_5519394401220875509.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.TestRunner.ref.dll_16527383234446630302.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEngine.UI.ref.dll_648142665722821984.movedfrom
+<<<<<<< HEAD
 Library\Bee\artifacts\movedfrom\Unity.Plastic.Newtonsoft.Json.dll_14819668294216618239.movedfrom
+=======
+Library\Bee\artifacts\movedfrom\Unity.Plastic.Newtonsoft.Json.dll_7939292618832978888.movedfrom
+>>>>>>> cb15d19f785af0db4bb02af14ddfbe998b222b4a
 Library\Bee\artifacts\movedfrom\UnityEditor.Graphs.dll_9557195304006934274.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.CoreModule.dll_14064027463420978384.movedfrom
 Library\Bee\artifacts\movedfrom\UnityEditor.DeviceSimulatorModule.dll_8131159870621774321.movedfrom

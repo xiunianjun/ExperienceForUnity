@@ -109,7 +109,11 @@
 -define:TEST_FRAMEWORK
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+<<<<<<< HEAD
 -r:"C:/Users/17765/Desktop/unityFile/New3D/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+=======
+-r:"C:/Users/17765/Desktop/unityFile/接苹果/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+>>>>>>> cb15d19f785af0db4bb02af14ddfbe998b222b4a
 -r:"D:/Unity 2021.1.26f1c1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"D:/Unity 2021.1.26f1c1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"D:/Unity 2021.1.26f1c1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"

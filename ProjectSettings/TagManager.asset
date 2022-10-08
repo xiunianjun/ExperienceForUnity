@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
   tags: []
+=======
+  tags:
+  - ground
+  - player
+  - enemy
+  - water
+  - star
+>>>>>>> cb15d19f785af0db4bb02af14ddfbe998b222b4a
   layers:
   - Default
   - TransparentFX
@@ -11,9 +20,15 @@ TagManager:
   - 
   - Water
   - UI
+<<<<<<< HEAD
   - 
   - 
   - 
+=======
+  - enemy
+  - 
+  - high
+>>>>>>> cb15d19f785af0db4bb02af14ddfbe998b222b4a
   - 
   - 
   - 
@@ -41,3 +56,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
+=======
+  - name: ground
+    uniqueID: 3676703509
+    locked: 0
+  - name: object
+    uniqueID: 3039519133
+    locked: 0
+>>>>>>> cb15d19f785af0db4bb02af14ddfbe998b222b4a

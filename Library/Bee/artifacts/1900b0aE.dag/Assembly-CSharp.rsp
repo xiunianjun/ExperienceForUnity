@@ -108,9 +108,14 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+<<<<<<< HEAD
 -r:"C:/Users/17765/Desktop/unityFile/New3D/Library/PackageCache/com.unity.cinemachine@2.7.9/Runtime/ThirdParty/clipper_library.dll"
 -r:"C:/Users/17765/Desktop/unityFile/New3D/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
 -r:"C:/Users/17765/Desktop/unityFile/New3D/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+=======
+-r:"C:/Users/17765/Desktop/unityFile/接苹果/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
+-r:"C:/Users/17765/Desktop/unityFile/接苹果/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+>>>>>>> cb15d19f785af0db4bb02af14ddfbe998b222b4a
 -r:"D:/Unity 2021.1.26f1c1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"D:/Unity 2021.1.26f1c1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
 -r:"D:/Unity 2021.1.26f1c1/Editor/Data/Managed/UnityEngine/UnityEditor.dll"
@@ -303,8 +308,33 @@
 -r:"D:/Unity 2021.1.26f1c1/Editor/Data/NetStandard/Extensions/2.0.0/System.Numerics.Vectors.dll"
 -r:"D:/Unity 2021.1.26f1c1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"D:/Unity 2021.1.26f1c1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll"
+<<<<<<< HEAD
 -r:"Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll"
+=======
+-r:"Library/Bee/artifacts/1900b0aE.dag/PsdPlugin.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Animation.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Animation.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Animation.Triangle.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Common.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Common.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.IK.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.IK.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Path.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.PixelPerfect.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.PixelPerfect.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Psdimporter.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Sprite.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.SpriteShape.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.SpriteShape.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Extras.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Extras.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.InternalAPIEditorBridge.001.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.InternalAPIEngineBridge.001.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.ref.dll"
+>>>>>>> cb15d19f785af0db4bb02af14ddfbe998b222b4a
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.ref.dll"
@@ -322,9 +352,25 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
+<<<<<<< HEAD
 "Assets/Scripts/CameeaController.cs"
 "Assets/Scripts/Movement.cs"
 "Assets/Scripts/Rolling.cs"
+=======
+"Assets/cre.cs"
+"Assets/CreateAmmo.cs"
+"Assets/On.cs"
+"Assets/Scripts/BetterJump.cs"
+"Assets/Scripts/FallingDowm.cs"
+"Assets/Scripts/HealthBar.cs"
+"Assets/Scripts/Jump.cs"
+"Assets/Scripts/MovementController.cs"
+"Assets/Scripts/newMovementController.cs"
+"Assets/Scripts/Player.cs"
+"Assets/Scripts/ScoreBar.cs"
+"Assets/Scripts/Scriptable/HitPoint.cs"
+"Assets/Scripts/Scriptable/Score.cs"
+>>>>>>> cb15d19f785af0db4bb02af14ddfbe998b222b4a
 -langversion:8.0
 
 /deterministic
